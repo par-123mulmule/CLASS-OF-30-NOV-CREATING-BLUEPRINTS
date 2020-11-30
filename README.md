@@ -1,1 +1,2 @@
-# CLASS-OF-30-NOV-CREATING-BLUEPRINTS
+# p5.play-boilerplate
+Boiler plate for p5.play
